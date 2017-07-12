@@ -1,0 +1,23 @@
+body > main > div.recipes {
+    margin: 0 auto;
+    width: 70%;
+    height: 555px;
+    background-color: whitesmoke;
+   display: block;
+    
+}
+.recipe-img {
+    width: 50%;
+    float: left;
+    
+}
+.recipe {
+    float: right;
+    width: 50%;
+    height: 350%;
+   
+    background: white;
+   
+
+}
+/* izpolzvai template
